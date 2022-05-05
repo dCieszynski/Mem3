@@ -1,0 +1,39 @@
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 50px;
+  background-color: #0d0d2b;
+  z-index: 1;
+}
+
+.header__logoLink {
+  margin-top: 1.15rem;
+}
+
+.header__logo {
+  width: 15rem;
+  height: auto;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+}
+
+.btn--header {
+  background-color: #3671e9;
+  font-size: 1.6rem;
+  border-radius: 24px;
+  padding: 14px 32px;
+}
+
+@media screen and (max-width: 380px) {
+  .btn--header {
+    padding: 10px 19px;
+  }
+}

@@ -1,0 +1,59 @@
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 460px;
+  max-height: 1000px;
+  border: 2px solid #5778ff;
+  background-color: #2b076e;
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.image__src {
+  width: 460px;
+  object-fit: scale-down;
+  margin-bottom: 1rem;
+}
+
+.image__like {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.btn--like {
+  background-color: transparent;
+  width: fit-content;
+}
+
+.likeIcon {
+  fill: white;
+  font-size: 4rem;
+  position: relative;
+  transition: fill 300ms ease-in;
+}
+
+.likeIcon:hover {
+  fill: red;
+}
+
+.likeIcon.active {
+  fill: red;
+}
+
+.span--likes {
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 570px) {
+  .image {
+    padding: 0;
+  }
+
+  .image__src {
+    max-width: 300px;
+    height: auto;
+  }
+}
