@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/Mem3/static/css/main.de93ffe0.css",
-    "main.js": "/react-gh-pages/Mem3/static/js/main.1cf1317f.js",
-    "static/media/VCR_OSD_MONO_1.001.ttf": "/react-gh-pages/Mem3/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
-    "static/media/logo.svg": "/react-gh-pages/Mem3/static/media/logo.eb6cd6b20966d2496d9bca5f5163fe85.svg",
-    "index.html": "/react-gh-pages/Mem3/index.html",
-    "main.de93ffe0.css.map": "/react-gh-pages/Mem3/static/css/main.de93ffe0.css.map",
-    "main.1cf1317f.js.map": "/react-gh-pages/Mem3/static/js/main.1cf1317f.js.map"
+    "main.css": "/react-gh-pages/mem3/static/css/main.1a9e2414.css",
+    "main.js": "/react-gh-pages/mem3/static/js/main.fb6793c6.js",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/react-gh-pages/mem3/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "static/media/logo.svg": "/react-gh-pages/mem3/static/media/logo.eb6cd6b20966d2496d9bca5f5163fe85.svg",
+    "index.html": "/react-gh-pages/mem3/index.html",
+    "main.1a9e2414.css.map": "/react-gh-pages/mem3/static/css/main.1a9e2414.css.map",
+    "main.fb6793c6.js.map": "/react-gh-pages/mem3/static/js/main.fb6793c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.de93ffe0.css",
-    "static/js/main.1cf1317f.js"
+    "static/css/main.1a9e2414.css",
+    "static/js/main.fb6793c6.js"
   ]
 }
