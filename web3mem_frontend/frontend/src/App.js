@@ -58,6 +58,7 @@ function App() {
       console.log("Connected", accounts[0]);
       setCurrentAccount(accounts[0]);
       console.log("Images in contrac:", allImages);
+      getAllImages();
     } catch (error) {
       console.log(error);
     }
